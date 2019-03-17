@@ -1,0 +1,4 @@
+Uses CNN API to get the top headlines of the CNN site and stores the headline of the article as well as the aurthor and URL into a CSV file.
+
+It can be ran multiple times and will only update the CSV if there are new titles.
+The new titles will then be added to the end of the previous file.
